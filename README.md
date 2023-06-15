@@ -30,4 +30,4 @@ width="200"
 - OkHttp - HTTP client for making API calls.
 
 ## Authors
-[Shivank Verma](https://www.linkedin.com/in/shivank8/)
+[Akira Haru]
